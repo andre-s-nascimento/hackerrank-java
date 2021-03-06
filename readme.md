@@ -1,6 +1,6 @@
 # hackerrank - repositório de desafios concluídos
 
-![GitHub last commit](https://img.shields.io/github/last-commit/andre-s-nascimento/hackerrank-java/) [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fandre-s-nascimento%2Fhackerrank-java/)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fandre-s-nascimento%2Fhackerrank-java/)
+![GitHub last commit](https://img.shields.io/github/last-commit/andre-s-nascimento/hackerrank-java)
 
 ### 🛠 Tecnologias
 
