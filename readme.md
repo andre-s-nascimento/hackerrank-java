@@ -19,4 +19,4 @@ As seguintes tecnologias foram usadas na construção do projeto:
 
 Feito por André S Nascimento 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-André Nascimento-blue?style=flat-square =Linkedin =white =https://www.linkedin.com/in/andresoaresnascimento/)](https://www.linkedin.com/in/andresoaresnascimento/) [![Gmail Badge](https://img.shields.io/badge/-andresoaresnascimento@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andresoaresnascimento@gmail.com)](mailto:andresoaresnascimento@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andresoaresnascimento/)](https://www.linkedin.com/in/andresoaresnascimento/) [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andresoaresnascimento@gmail.com)](mailto:andresoaresnascimento@gmail.com)
