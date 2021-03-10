@@ -1,4 +1,4 @@
-# hackerrank - repositório de desafios concluídos !
+# hackerrank - Repositório de desafios concluídos !
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/andre-s-nascimento/hackerrank-java)
 
