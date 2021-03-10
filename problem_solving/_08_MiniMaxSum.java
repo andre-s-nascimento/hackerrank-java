@@ -1,4 +1,5 @@
 package problem_solving;
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -11,20 +12,20 @@ public class _08_MiniMaxSum {
 
     // Complete the miniMaxSum function below.
     static void miniMaxSum(int[] arr) {
-        
+
         Arrays.sort(arr);
         long minSum = 0;
         long maxSum = 0;
-        //Min
+        // Min
         for (int i = 0; i < 4; i++) {
             minSum += arr[i];
         }
-        //Max
+        // Max
         for (int i = 1; i < 5; i++) {
             maxSum += arr[i];
         }
 
-        System.out.println(minSum+" "+maxSum);
+        System.out.println(minSum + " " + maxSum);
 
     }
 
