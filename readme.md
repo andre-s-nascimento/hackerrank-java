@@ -15,7 +15,7 @@ As seguintes tecnologias foram usadas na construção do projeto:
 <a href="https://app.rocketseat.com.br/me/andre-soares-nascimento-09244">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/45982225?s=460&u=395fcbac3d5a972cc7ada256f3804917b57ef82b&v=4" width="100px;" alt="Foto de André Nascimento"/>
  <br />
- <sub><b>André S Nascimento</b></sub></a> <a href="https://app.rocketseat.com.br/me/andre-soares-nascimento-09244" title="Rocketseat"></a>
+ <sub><b>André Soares Nascimento</b></sub></a> <a href="https://app.rocketseat.com.br/me/andre-soares-nascimento-09244" title="Rocketseat"></a>
 
 Feito por André S Nascimento 👋🏽 Entre em contato!
 
