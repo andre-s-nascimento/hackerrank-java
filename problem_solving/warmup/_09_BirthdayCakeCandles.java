@@ -1,4 +1,4 @@
-package problem_solving;
+package problem_solving.warmup;
 
 import java.io.*;
 import java.math.*;
