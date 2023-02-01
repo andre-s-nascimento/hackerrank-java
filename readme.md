@@ -17,6 +17,6 @@ As seguintes tecnologias foram usadas na construção do projeto:
  <br />
  <sub><b>André Soares Nascimento</b></sub></a> <a href="https://app.rocketseat.com.br/me/andre-soares-nascimento-09244" title="Rocketseat"></a>
 
-Feito por André S Nascimento 👋🏽 Entre em contato!
+Feito por André Nascimento 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andresoaresnascimento/)](https://www.linkedin.com/in/andresoaresnascimento/) [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andresoaresnascimento@gmail.com)](mailto:andresoaresnascimento@gmail.com)
